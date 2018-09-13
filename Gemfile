@@ -11,9 +11,12 @@ gem 'redis'
 
 gem 'autoprefixer-rails'
 gem 'bootstrap-sass', '~> 3.3'
+gem 'dotenv-rails'
 gem 'font-awesome-sass', '~> 5.0.9'
+gem 'money-rails'
 gem 'sass-rails'
 gem 'simple_form'
+gem 'stripe'
 gem 'uglifier'
 gem 'webpacker'
 
